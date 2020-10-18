@@ -7,12 +7,7 @@
 <a href="https://ibb.co/FVxfJDx"><img src="https://i.ibb.co/9t8f2r8/Screenshot-203.png" alt="Screenshot-203" border="0"></a>
 <br />
 </div>
-<div>
+<div style="font-size: 20px;">
 Very good tic tac toe app, it will give you the thrills!
 </div>
 
-<style>
-  .div{
-  font-size: 30px;
-  }
-</style>
